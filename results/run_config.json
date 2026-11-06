@@ -1,0 +1,14 @@
+{
+ "model": "Qwen/Qwen2.5-3B-Instruct",
+ "decoding": {
+  "max_new": 1280,
+  "rep_penalty": 1.0,
+  "gen_rep_penalty": 1.1,
+  "gen_no_repeat": 12
+ },
+ "adapter_md5": {
+  "nn_v1": "57cf9313307c40469d752682027cbb24",
+  "none_v1": "ee480b22c7b166d0894c54978c6c8159",
+  "nn_v2": "74037c6506cafd5ab13f450ab104ce7d"
+ }
+}
