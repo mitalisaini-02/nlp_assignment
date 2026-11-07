@@ -1,0 +1,10 @@
+{
+  "Load data": 4.2,
+  "Build index": 171.6,
+  "Evaluate retrieval": 79.8,
+  "Build prompts": 43.1,
+  "Train": 2260.1,
+  "Retrieve": 50.2,
+  "Generate": 284.9,
+  "Metrics": 341.4
+}

@@ -1,0 +1,6 @@
+{
+  "train_examples": 11655,
+  "best_val_loss": 2.8177268505096436,
+  "steps": 2187,
+  "stopped_by_time_budget": false
+}
